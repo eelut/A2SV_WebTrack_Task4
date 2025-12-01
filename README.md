@@ -30,6 +30,9 @@ The project demonstrates the use of:
 - CSS
 - HTML
 
+## Screenshots
+![Screenshot1](./src/images/ScreenShot1.png)
+![Screenshot2](./src/images/ScreenShot2.png)
 
 ## Getting Started
 
