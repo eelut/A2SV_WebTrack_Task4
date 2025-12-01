@@ -1,4 +1,4 @@
-# Task 2: Simple Todo List App with TypeScript
+# Task 2: Simple Todo List App with React + TypeScript
 
 ## Project Description
 
@@ -31,8 +31,8 @@ The project demonstrates the use of:
 - HTML
 
 ## Screenshots
-![Screenshot1](./src/images/ScreenShot1.png)
-![Screenshot2](./src/images/ScreenShot2.png)
+![Screenshot1](./src/images/Screenshot1.png)
+![Screenshot2](./src/images/Screenshot2.png)
 
 ## Getting Started
 
