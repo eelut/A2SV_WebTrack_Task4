@@ -1,0 +1,33 @@
+.inputForm {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin: 18px 0;
+}
+.inputForm input[type="text"] {
+  flex: 1;
+  height: 56px; /* match add button */
+  padding: 0 18px;
+  border-radius: 12px;
+  border: 1px solid #ececec;
+  font-size: 16px;
+  background: #fff;
+  box-sizing: border-box;
+}
+.inputForm .addBtn {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #4b5563;
+  color: white;
+  border: none;
+  font-size: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 6px 12px rgba(75, 85, 99, 0.15);
+  cursor: pointer;
+}
+.inputForm .addBtn:active {
+  transform: translateY(1px);
+}
